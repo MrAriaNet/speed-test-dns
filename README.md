@@ -1,4 +1,10 @@
-<!-- ABOUT THE PROJECT -->
+## Project Archived 🚨
+
+This project is no longer maintained.  
+
+An alternative implementation in **Go** is available, which does **not require any third-party libraries** and runs as a **static, all-in-one binary**:  
+
+- [403Unlocker-cli](https://github.com/403unlocker/403Unlocker-cli)  
 
 ## About best403unlocker
 
